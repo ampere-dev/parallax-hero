@@ -16,6 +16,7 @@ body .hero:before {
   width: 100%;
   height: 170vh;
   width: 100vw;
+  background: rgba(44, 123, 183, 0.5);
   position: absolute;
 }
 body .hero h1 {
